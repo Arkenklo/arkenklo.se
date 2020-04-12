@@ -1,0 +1,4 @@
+baseURL = "http://moodevents.se"
+languageCode = "en-us"
+title = "MOOD Events"
+theme = "personal-web"
