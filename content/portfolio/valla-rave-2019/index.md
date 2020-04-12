@@ -14,7 +14,7 @@ projectUrl: https://www.facebook.com/vallaskivgarde
 #  image: sample-project/john.jpg
 #  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
 ---
-Worked as stage technician with the wonderful [MBN group](http://mbn.se "MBN group"). Built the stage, programmed and ran the lightshow using a Martin M1 HD.
+Worked as stage technician with the wonderful [MBN](http://mbn.se "MBN"). Built the stage, programmed and ran the lightshow using a Martin M1 HD.
 
 Photos below are from the event, taken by [Emil Strömblad](https://www.facebook.com/Emil.Stromblad "Emil Strömblad") (used with permission).
 
