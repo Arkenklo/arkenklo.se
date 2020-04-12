@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techs on Mood Events</title>
+    <link>https://arkenklo.se/techs/</link>
+    <description>Recent content in Techs on Mood Events</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Robert Arkenklo</copyright>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://arkenklo.se/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Martin M1 HD</title>
+      <link>https://arkenklo.se/techs/martin-m1-hd/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://arkenklo.se/techs/martin-m1-hd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
